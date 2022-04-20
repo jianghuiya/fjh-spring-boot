@@ -47,7 +47,7 @@ public class UserController {
     }
 
     /**
-     * 测试超时熔断
+     * 限流测试
      * @param userId
      * @return
      */
